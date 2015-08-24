@@ -3,11 +3,11 @@ description:      "Xin's personal pages"
 logo:             logo.png
 disqus_shortname: sheenzhaox
 share:            true
-dropcap:			true
+dropcap:          true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-url:        	  http://xin.chaseq.com
+url:              http://xin.chaseq.com
 
 # Owner/author information
 owner:
@@ -20,15 +20,6 @@ owner:
   twitter:        sheenzhaox
   facebook:       sheenzhaox
   github:         sheenzhaox      
-  instagram:      sheenzhaox
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:    https://plus.google.com/u/0/102602916593522619858
-
-# # Analytics and webmaster tools stuff goes here
-# google_analytics:   UA-39365944-7
-# google_verify:      
-# # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-# bing_verify:         
 
 # Links to include in footer navigation
 # For external links add external: true
